@@ -1,1 +1,17 @@
 /* styles go here */
+.form__fieldset {
+  margin: 2px;
+  margin-bottom: 20px;
+}
+
+/* .form__fieldset {
+  margin: 0 0 20px;
+} */
+
+.form__set {
+  padding: 0 0 10px;
+}
+
+.form__set:last-child {
+  padding: 0;
+}
